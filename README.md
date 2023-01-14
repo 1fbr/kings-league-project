@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#307](https://github.com/midudev/kings-league-project/pull/307) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-2. ❗️ Closed issue [#297](https://github.com/midudev/kings-league-project/issues/297) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-3. 🎉 Merged PR [#319](https://github.com/midudev/kings-league-project/pull/319) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-4. 🎉 Merged PR [#320](https://github.com/midudev/kings-league-project/pull/320) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-5. 🎉 Merged PR [#311](https://github.com/midudev/kings-league-project/pull/311) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+1. 🗣 Commented on [#257](https://github.com/midudev/kings-league-project/issues/257) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+2. 🗣 Commented on [#257](https://github.com/midudev/kings-league-project/issues/257) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+3. 🗣 Commented on [#257](https://github.com/midudev/kings-league-project/issues/257) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+4. 🗣 Commented on [#257](https://github.com/midudev/kings-league-project/issues/257) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+5. 💪 Opened PR [#238](https://github.com/midudev/kings-league-project/pull/238) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
 <!--END_SECTION:activity-->
 
 
